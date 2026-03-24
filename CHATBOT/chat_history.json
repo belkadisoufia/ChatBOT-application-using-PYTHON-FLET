@@ -1,0 +1,98 @@
+{
+    "20250402210037": [
+        {
+            "role": "user",
+            "content": "HELLO"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello there! How can I help you today?\n"
+        }
+    ],
+    "20250402210342": [
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello there! How can I help you today?\n"
+        },
+        {
+            "role": "user",
+            "content": "can you show me the history"
+        },
+        {
+            "role": "assistant",
+            "content": "\"History\" is a vast topic!  To help me show you some history, I need you to be more specific.  What kind of history are you interested in? For example, are you interested in:\n\n* **A specific time period?** (e.g., the Roman Empire, the Victorian Era, the 20th century)\n* **A specific geographical location?** (e.g., the history of France, the history of Ancient Egypt, the history of the American West)\n* **A specific topic?** (e.g., the history of warfare, the history of art, the history of science, the history of women's suffrage)\n* **A specific event?** (e.g., the American Revolution, World War II, the French Revolution)\n\nThe more details you give me, the better I can assist you.\n"
+        }
+    ],
+    "20250402214608": [
+        {
+            "role": "user",
+            "content": "hello sofia"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello there!  How can I help you today?\n"
+        }
+    ],
+    "20250407170806": [
+        {
+            "role": "user",
+            "content": "hellooooo"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello there! How can I help you today?\n"
+        }
+    ],
+    "20250409102913": [
+        {
+            "role": "user",
+            "content": "HEY"
+        },
+        {
+            "role": "assistant",
+            "content": "Hey there!  How can I help you today?\n"
+        },
+        {
+            "role": "user",
+            "content": "can you give me 5 cities in algeria"
+        },
+        {
+            "role": "assistant",
+            "content": "1. Algiers (Alger)\n2. Oran\n3. Constantine\n4. Annaba\n5. S\u00e9tif\n"
+        }
+    ],
+    "20250409105351": [
+        {
+            "role": "user",
+            "content": "hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Hi there! How can I help you today?\n"
+        }
+    ],
+    "20250409111835": [
+        {
+            "role": "user",
+            "content": "HI"
+        },
+        {
+            "role": "assistant",
+            "content": "Hi there! How can I help you today?\n"
+        }
+    ],
+    "20260324071039": [
+        {
+            "role": "user",
+            "content": "hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+        }
+    ]
+}
